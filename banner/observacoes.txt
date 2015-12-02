@@ -1,0 +1,4 @@
+Aqui nessa pasta se encontra alguns dos prints de tela que vão ser utilizados e ainda devem 
+ser atualizados pois o sistema passa por atualizações e também a parte escrita que
+sera usada que passara também por melhorias. Ainda essa semana vai ficar disponivel 
+um arquivo em formato banner.
