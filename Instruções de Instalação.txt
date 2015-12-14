@@ -1,0 +1,9 @@
+Como Banco de Dados foi usado o MySQL;
+
+Para instalação do sistema é preciso simples passos;
+
+1. Copiar os arquivos da pasta "Ufsm" para o repositório do servidor;
+2. Dentre os arquivos há arquivos "conexao.php";
+2.1 Dentro dele deve ser escritos os dados de acesso a Base de Dados criada;
+Nesta ordem: "endereço_do_banco", "usuario", "senha", "nome_do_banco", conforme já há um exemplo dentro dele;
+2.2 Há 2 arquivos "conexao.php" a serem modificados, um deles fica na pasta principal e outro fica dentro da pasta "relatorio";
